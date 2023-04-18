@@ -1,0 +1,79 @@
+{
+  "2023-04-9": {
+    "score": 91,
+    "score_activity_balance": 78,
+    "score_hrv_balance": 90,
+    "score_previous_day": 98,
+    "score_previous_night": 89,
+    "score_recovery_index": 100,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 88,
+    "score_temperature": 84
+  },
+  "2023-04-10": {
+    "score": 72,
+    "score_activity_balance": 83,
+    "score_hrv_balance": 88,
+    "score_previous_day": 98,
+    "score_previous_night": 29,
+    "score_recovery_index": 31,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 78,
+    "score_temperature": 99
+  },
+  "2023-04-11": {
+    "score": 88,
+    "score_activity_balance": 88,
+    "score_hrv_balance": 88,
+    "score_previous_day": 88,
+    "score_previous_night": 97,
+    "score_recovery_index": 70,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 83,
+    "score_temperature": 100
+  },
+  "2023-04-12": {
+    "score": 74,
+    "score_activity_balance": 84,
+    "score_hrv_balance": 87,
+    "score_previous_day": 48,
+    "score_previous_night": 62,
+    "score_recovery_index": 78,
+    "score_resting_hr": 74,
+    "score_sleep_balance": 75,
+    "score_temperature": 100
+  },
+  "2023-04-13": {
+    "score": 80,
+    "score_activity_balance": 90,
+    "score_hrv_balance": 83,
+    "score_previous_day": 88,
+    "score_previous_night": 97,
+    "score_recovery_index": 92,
+    "score_resting_hr": 74,
+    "score_sleep_balance": 82,
+    "score_temperature": 70
+  },
+  "2023-04-14": {
+    "score": 59,
+    "score_activity_balance": 93,
+    "score_hrv_balance": 58,
+    "score_previous_day": 93,
+    "score_previous_night": 67,
+    "score_recovery_index": 92,
+    "score_resting_hr": 16,
+    "score_sleep_balance": 78,
+    "score_temperature": 70
+  },
+  "2023-04-15": {
+    "score": 74,
+    "score_activity_balance": 88,
+    "score_hrv_balance": 59,
+    "score_previous_day": 90,
+    "score_previous_night": 65,
+    "score_recovery_index": 52,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 75,
+    "score_temperature": 100
+  }
+}

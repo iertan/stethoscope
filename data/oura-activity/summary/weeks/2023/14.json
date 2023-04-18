@@ -1,0 +1,51 @@
+{
+  "2023-04-2": {
+    "steps": 9829,
+    "total": 332,
+    "cal_active": 459,
+    "cal_total": 2765,
+    "score": 87
+  },
+  "2023-04-3": {
+    "steps": 5051,
+    "total": 226,
+    "cal_active": 840,
+    "cal_total": 3009,
+    "score": 92
+  },
+  "2023-04-4": {
+    "steps": 6675,
+    "total": 241,
+    "cal_active": 298,
+    "cal_total": 2496,
+    "score": 88
+  },
+  "2023-04-5": {
+    "steps": 5947,
+    "total": 299,
+    "cal_active": 751,
+    "cal_total": 2986,
+    "score": 91
+  },
+  "2023-04-6": {
+    "steps": 4779,
+    "total": 211,
+    "cal_active": 225,
+    "cal_total": 2490,
+    "score": 81
+  },
+  "2023-04-7": {
+    "steps": 15797,
+    "total": 444,
+    "cal_active": 1091,
+    "cal_total": 3373,
+    "score": 93
+  },
+  "2023-04-8": {
+    "steps": 14496,
+    "total": 338,
+    "cal_active": 612,
+    "cal_total": 2812,
+    "score": 98
+  }
+}

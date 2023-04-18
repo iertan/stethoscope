@@ -1,0 +1,25 @@
+{
+  "days": {
+    "2023": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json"
+    ]
+  },
+  "months": [
+    "2023.json"
+  ],
+  "weeks": {
+    "2023": [
+      "10.json",
+      "11.json",
+      "12.json",
+      "13.json",
+      "14.json",
+      "15.json",
+      "16.json"
+    ]
+  },
+  "years": "years.json"
+}
