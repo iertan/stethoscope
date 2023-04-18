@@ -1,0 +1,16 @@
+[
+  {
+    "summary_date": "2023-03-28",
+    "score": 81,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 73,
+    "score_previous_day": 92,
+    "score_previous_night": 80,
+    "score_recovery_index": 56,
+    "score_resting_hr": 94,
+    "score_sleep_balance": 82,
+    "score_temperature": 100,
+    "rest_mode_state": 0,
+    "period_id": 2
+  }
+]
