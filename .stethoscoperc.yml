@@ -13,12 +13,12 @@ integrations:
  # wakatime:
  #   frequency: "daily"
  #   all: true
-  google-fit:
-    frequency: "daily"
-    all: true
- # oura-ring:
+ # google-fit:
  #   frequency: "daily"
  #   all: true
+  oura-ring:
+    frequency: "daily"
+    all: true
  # twitter:
  #   frequency: "daily"
  #   all: true
