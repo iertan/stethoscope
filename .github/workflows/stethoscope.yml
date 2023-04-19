@@ -1,7 +1,7 @@
 name: Stethoscope CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 7 * * *"
   repository_dispatch:
     types: [stethoscope]
   workflow_dispatch:
