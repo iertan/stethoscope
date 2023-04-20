@@ -21,13 +21,19 @@
     "score": 85
   },
   "2023-04-19": {
-    "steps": 2638,
-    "total": 68,
-    "cal_active": 113,
-    "cal_total": 2076,
+    "steps": 6843,
+    "total": 278,
+    "cal_active": 314,
+    "cal_total": 2504,
     "score": 78
   },
-  "2023-04-20": {},
+  "2023-04-20": {
+    "steps": 508,
+    "total": 21,
+    "cal_active": 23,
+    "cal_total": 1961,
+    "score": 75
+  },
   "2023-04-21": {},
   "2023-04-22": {}
 }
