@@ -230,7 +230,17 @@
     "score_sleep_balance": 89,
     "score_temperature": 98
   },
-  "22": {},
+  "22": {
+    "score": 79,
+    "score_activity_balance": 96,
+    "score_hrv_balance": 68,
+    "score_previous_day": 100,
+    "score_previous_night": 65,
+    "score_recovery_index": 40,
+    "score_resting_hr": 94,
+    "score_sleep_balance": 86,
+    "score_temperature": 89
+  },
   "23": {},
   "24": {},
   "25": {},
