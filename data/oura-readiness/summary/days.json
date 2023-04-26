@@ -580,17 +580,27 @@
     "score_temperature": 85
   },
   "2023-04-24": {
-    "score": 70,
+    "score": 87,
     "score_activity_balance": 93,
-    "score_hrv_balance": 36,
+    "score_hrv_balance": 70,
     "score_previous_day": 79,
-    "score_previous_night": 94,
+    "score_previous_night": 96,
     "score_recovery_index": 100,
-    "score_resting_hr": 20,
-    "score_sleep_balance": 82,
+    "score_resting_hr": 99,
+    "score_sleep_balance": 84,
     "score_temperature": 97
   },
-  "2023-04-25": {},
+  "2023-04-25": {
+    "score": 69,
+    "score_activity_balance": 90,
+    "score_hrv_balance": 59,
+    "score_previous_day": 91,
+    "score_previous_night": 93,
+    "score_recovery_index": 1,
+    "score_resting_hr": 52,
+    "score_sleep_balance": 83,
+    "score_temperature": 100
+  },
   "2023-04-26": {},
   "2023-04-27": {},
   "2023-04-28": {},
