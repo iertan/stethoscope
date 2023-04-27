@@ -1,13 +1,13 @@
 {
   "2023": {
-    "score": 3979,
-    "score_previous_day": 4100,
-    "score_previous_night": 4014,
-    "score_recovery_index": 3395,
-    "score_resting_hr": 4147,
-    "score_temperature": 4683,
-    "score_activity_balance": 3970,
-    "score_sleep_balance": 3909,
-    "score_hrv_balance": 3291
+    "score": 4062,
+    "score_previous_day": 4184,
+    "score_previous_night": 4114,
+    "score_recovery_index": 3479,
+    "score_resting_hr": 4233,
+    "score_temperature": 4783,
+    "score_activity_balance": 4057,
+    "score_sleep_balance": 3996,
+    "score_hrv_balance": 3351
   }
 }
