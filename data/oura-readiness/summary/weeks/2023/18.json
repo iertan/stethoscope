@@ -1,0 +1,29 @@
+{
+  "2023-04-30": {
+    "score": 65,
+    "score_activity_balance": 74,
+    "score_hrv_balance": 33,
+    "score_previous_day": 85,
+    "score_previous_night": 71,
+    "score_recovery_index": 27,
+    "score_resting_hr": 79,
+    "score_sleep_balance": 74,
+    "score_temperature": 100
+  },
+  "2023-05-1": {
+    "score": 45,
+    "score_activity_balance": 78,
+    "score_hrv_balance": 2,
+    "score_previous_day": 95,
+    "score_previous_night": 26,
+    "score_recovery_index": 65,
+    "score_resting_hr": 1,
+    "score_sleep_balance": 63,
+    "score_temperature": 93
+  },
+  "2023-05-2": {},
+  "2023-05-3": {},
+  "2023-05-4": {},
+  "2023-05-5": {},
+  "2023-05-6": {}
+}
