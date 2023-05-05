@@ -28,12 +28,18 @@
     "score": 87
   },
   "2023-05-4": {
-    "steps": 40,
-    "total": 1,
-    "cal_active": 1,
-    "cal_total": 1895,
-    "score": 86
+    "steps": 6942,
+    "total": 246,
+    "cal_active": 334,
+    "cal_total": 2578,
+    "score": 89
   },
-  "2023-05-5": {},
+  "2023-05-5": {
+    "steps": 16,
+    "total": 2,
+    "cal_active": 1,
+    "cal_total": 1892,
+    "score": 83
+  },
   "2023-05-6": {}
 }
