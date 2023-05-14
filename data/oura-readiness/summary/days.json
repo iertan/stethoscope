@@ -778,7 +778,7 @@
     "score_temperature": 100
   },
   "2023-05-12": {
-    "score": 55,
+    "score": 57,
     "score_activity_balance": 98,
     "score_hrv_balance": 7,
     "score_previous_day": 87,
@@ -788,7 +788,17 @@
     "score_sleep_balance": 78,
     "score_temperature": 88
   },
-  "2023-05-13": {},
+  "2023-05-13": {
+    "score": 78,
+    "score_activity_balance": 97,
+    "score_hrv_balance": 16,
+    "score_previous_day": 92,
+    "score_previous_night": 84,
+    "score_recovery_index": 100,
+    "score_resting_hr": 97,
+    "score_sleep_balance": 78,
+    "score_temperature": 100
+  },
   "2023-05-14": {},
   "2023-05-15": {},
   "2023-05-16": {},
