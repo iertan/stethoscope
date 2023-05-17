@@ -821,7 +821,17 @@
     "score_sleep_balance": 92,
     "score_temperature": 100
   },
-  "2023-05-16": {},
+  "2023-05-16": {
+    "score": 85,
+    "score_activity_balance": 98,
+    "score_hrv_balance": 45,
+    "score_previous_day": 85,
+    "score_previous_night": 93,
+    "score_recovery_index": 100,
+    "score_resting_hr": 96,
+    "score_sleep_balance": 92,
+    "score_temperature": 98
+  },
   "2023-05-17": {},
   "2023-05-18": {},
   "2023-05-19": {},
