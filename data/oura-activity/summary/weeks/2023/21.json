@@ -35,11 +35,17 @@
     "score": 88
   },
   "2023-05-26": {
-    "steps": 8453,
-    "total": 300,
-    "cal_active": 420,
-    "cal_total": 2656,
+    "steps": 8545,
+    "total": 306,
+    "cal_active": 424,
+    "cal_total": 2673,
     "score": 87
   },
-  "2023-05-27": {}
+  "2023-05-27": {
+    "steps": 10416,
+    "total": 427,
+    "cal_active": 495,
+    "cal_total": 2765,
+    "score": 87
+  }
 }

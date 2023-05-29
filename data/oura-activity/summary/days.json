@@ -623,14 +623,32 @@
     "score": 88
   },
   "2023-05-26": {
-    "steps": 8453,
-    "total": 300,
-    "cal_active": 420,
-    "cal_total": 2656,
+    "steps": 8545,
+    "total": 306,
+    "cal_active": 424,
+    "cal_total": 2673,
     "score": 87
   },
-  "2023-05-27": {},
-  "2023-05-28": {},
-  "2023-05-29": {},
+  "2023-05-27": {
+    "steps": 10416,
+    "total": 427,
+    "cal_active": 495,
+    "cal_total": 2765,
+    "score": 87
+  },
+  "2023-05-28": {
+    "steps": 8731,
+    "total": 310,
+    "cal_active": 423,
+    "cal_total": 2608,
+    "score": 81
+  },
+  "2023-05-29": {
+    "steps": 1355,
+    "total": 29,
+    "cal_active": 62,
+    "cal_total": 1977,
+    "score": 73
+  },
   "2023-05-30": {}
 }

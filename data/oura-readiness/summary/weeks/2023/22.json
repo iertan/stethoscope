@@ -1,6 +1,5 @@
-[
-  {
-    "summary_date": "2023-05-28",
+{
+  "2023-05-28": {
     "score": 86,
     "score_activity_balance": 82,
     "score_hrv_balance": 71,
@@ -9,8 +8,8 @@
     "score_recovery_index": 100,
     "score_resting_hr": 99,
     "score_sleep_balance": 76,
-    "score_temperature": 89,
-    "rest_mode_state": 0,
-    "period_id": 1
-  }
-]
+    "score_temperature": 89
+  },
+  "2023-05-29": {},
+  "2023-05-30": {}
+}
