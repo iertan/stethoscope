@@ -644,11 +644,24 @@
     "score": 81
   },
   "2023-05-29": {
-    "steps": 6940,
-    "total": 222,
-    "cal_active": 357,
-    "cal_total": 2408,
-    "score": 74
+    "steps": 12948,
+    "total": 443,
+    "cal_active": 682,
+    "cal_total": 2919,
+    "score": 83
   },
-  "2023-05-30": {}
+  "2023-05-30": {
+    "steps": 9802,
+    "total": 349,
+    "cal_active": 458,
+    "cal_total": 2746,
+    "score": 75
+  },
+  "2023-05-31": {
+    "steps": 628,
+    "total": 32,
+    "cal_active": 32,
+    "cal_total": 1950,
+    "score": 64
+  }
 }
