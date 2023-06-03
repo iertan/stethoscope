@@ -289,5 +289,15 @@
     "efficiency": 92,
     "light": 9930,
     "score": 84
+  },
+  "31": {
+    "total": 23250,
+    "rem": 5550,
+    "awake": 3810,
+    "deep": 7290,
+    "duration": 27060,
+    "efficiency": 86,
+    "light": 10410,
+    "score": 85
   }
 }
