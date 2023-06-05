@@ -65,5 +65,15 @@
     "score_sleep_balance": 75,
     "score_temperature": 100
   },
-  "2023-06-3": {}
+  "2023-06-3": {
+    "score": 64,
+    "score_activity_balance": 82,
+    "score_hrv_balance": 75,
+    "score_previous_day": 85,
+    "score_previous_night": 59,
+    "score_recovery_index": 80,
+    "score_resting_hr": 8,
+    "score_sleep_balance": 67,
+    "score_temperature": 92
+  }
 }
