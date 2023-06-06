@@ -10,7 +10,17 @@
     "score_sleep_balance": 69,
     "score_temperature": 95
   },
-  "2023-06-5": {},
+  "2023-06-5": {
+    "score": 81,
+    "score_activity_balance": 79,
+    "score_hrv_balance": 75,
+    "score_previous_day": 80,
+    "score_previous_night": 99,
+    "score_recovery_index": 79,
+    "score_resting_hr": 83,
+    "score_sleep_balance": 72,
+    "score_temperature": 100
+  },
   "2023-06-6": {},
   "2023-06-7": {},
   "2023-06-8": {},
