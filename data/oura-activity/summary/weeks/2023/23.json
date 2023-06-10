@@ -28,12 +28,18 @@
     "score": 88
   },
   "2023-06-8": {
-    "steps": 4217,
-    "total": 199,
-    "cal_active": 196,
-    "cal_total": 2374,
-    "score": 74
+    "steps": 6561,
+    "total": 298,
+    "cal_active": 313,
+    "cal_total": 2620,
+    "score": 77
   },
-  "2023-06-9": {},
+  "2023-06-9": {
+    "steps": 1966,
+    "total": 111,
+    "cal_active": 90,
+    "cal_total": 2074,
+    "score": 82
+  },
   "2023-06-10": {}
 }
