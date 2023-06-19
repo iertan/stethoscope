@@ -1,6 +1,5 @@
-[
-  {
-    "summary_date": "2023-06-18",
+{
+  "2023-06-18": {
     "score": 84,
     "score_activity_balance": 89,
     "score_hrv_balance": 56,
@@ -9,8 +8,12 @@
     "score_recovery_index": 93,
     "score_resting_hr": 97,
     "score_sleep_balance": 83,
-    "score_temperature": 100,
-    "rest_mode_state": 0,
-    "period_id": 1
-  }
-]
+    "score_temperature": 100
+  },
+  "2023-06-19": {},
+  "2023-06-20": {},
+  "2023-06-21": {},
+  "2023-06-22": {},
+  "2023-06-23": {},
+  "2023-06-24": {}
+}
