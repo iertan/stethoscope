@@ -55,7 +55,7 @@
     "score_temperature": 79
   },
   "2023-06-23": {
-    "score": 82,
+    "score": 81,
     "score_activity_balance": 83,
     "score_hrv_balance": 82,
     "score_previous_day": 79,
@@ -65,5 +65,15 @@
     "score_sleep_balance": 71,
     "score_temperature": 100
   },
-  "2023-06-24": {}
+  "2023-06-24": {
+    "score": 79,
+    "score_activity_balance": 83,
+    "score_hrv_balance": 78,
+    "score_previous_day": 90,
+    "score_previous_night": 83,
+    "score_recovery_index": 66,
+    "score_resting_hr": 79,
+    "score_sleep_balance": 74,
+    "score_temperature": 100
+  }
 }
