@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "summary_date": "2023-07-04",
+    "score": 85,
+    "score_activity_balance": 78,
+    "score_hrv_balance": 99,
+    "score_previous_day": 88,
+    "score_previous_night": 73,
+    "score_recovery_index": 90,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 75,
+    "score_temperature": 96,
+    "rest_mode_state": 0,
+    "period_id": 3
+  }
+]
