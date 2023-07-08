@@ -43,7 +43,17 @@
     "score_sleep_balance": 75,
     "score_temperature": 97
   },
-  "2023-07-6": {},
+  "2023-07-6": {
+    "score": 87,
+    "score_activity_balance": 72,
+    "score_hrv_balance": 98,
+    "score_previous_day": 82,
+    "score_previous_night": 83,
+    "score_recovery_index": 94,
+    "score_resting_hr": 100,
+    "score_sleep_balance": 75,
+    "score_temperature": 99
+  },
   "2023-07-7": {},
   "2023-07-8": {}
 }
