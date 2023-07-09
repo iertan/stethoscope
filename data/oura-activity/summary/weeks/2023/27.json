@@ -35,11 +35,17 @@
     "score": 81
   },
   "2023-07-7": {
-    "steps": 5033,
-    "total": 212,
-    "cal_active": 240,
-    "cal_total": 2401,
-    "score": 83
+    "steps": 6342,
+    "total": 296,
+    "cal_active": 302,
+    "cal_total": 2575,
+    "score": 82
   },
-  "2023-07-8": {}
+  "2023-07-8": {
+    "steps": 10322,
+    "total": 359,
+    "cal_active": 496,
+    "cal_total": 2767,
+    "score": 90
+  }
 }
